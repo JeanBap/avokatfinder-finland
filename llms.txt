@@ -11,15 +11,15 @@
 
 ## Legal Glossary Terms
 - https://finland.avokatfinder.com/glossary/asunto-osakeyhtio/
-- https://finland.avokatfinder.com/glossary/avioehtosopimus/
 - https://finland.avokatfinder.com/glossary/henkilotunnus/
 - https://finland.avokatfinder.com/glossary/kauppakirja-fi/
 - https://finland.avokatfinder.com/glossary/lainhuuto/
+- https://finland.avokatfinder.com/glossary/varainsiirtovero/
+- https://finland.avokatfinder.com/glossary/avioehtosopimus/
 - https://finland.avokatfinder.com/glossary/oleskelulupa-fi/
 - https://finland.avokatfinder.com/glossary/osakeyhtion-perustaminen/
 - https://finland.avokatfinder.com/glossary/perunkirjoitus/
 - https://finland.avokatfinder.com/glossary/tyosopimus-fi/
-- https://finland.avokatfinder.com/glossary/varainsiirtovero/
 
 ## Site Info
 - Language: English
