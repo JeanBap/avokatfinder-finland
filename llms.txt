@@ -1,5 +1,33 @@
 # AvökatFinder Finland
-> English-speaking law firm directory for Finland
+> The English-language directory of lawyers and law firms in Finland for expats, foreign nationals and international businesses.
 
-Directory: https://finland.avokatfinder.com
-Email: info@avokatfinder.com
+## Main Pages
+- https://finland.avokatfinder.com/: Home — find an English-speaking lawyer in Finland
+- https://finland.avokatfinder.com/lawyers/: Directory of verified law firms and lawyers in Finland
+- https://finland.avokatfinder.com/glossary/: Legal glossary — plain-English definitions of Finland legal terms
+- https://finland.avokatfinder.com/blog/: Expat legal guides and property law articles for Finland
+- https://finland.avokatfinder.com/about/: About AvökatFinder Finland
+- https://finland.avokatfinder.com/contact/: Contact us
+
+## Legal Glossary Terms
+- https://finland.avokatfinder.com/glossary/asunto-osakeyhtio/
+- https://finland.avokatfinder.com/glossary/avioehtosopimus/
+- https://finland.avokatfinder.com/glossary/henkilotunnus/
+- https://finland.avokatfinder.com/glossary/kauppakirja-fi/
+- https://finland.avokatfinder.com/glossary/lainhuuto/
+- https://finland.avokatfinder.com/glossary/oleskelulupa-fi/
+- https://finland.avokatfinder.com/glossary/osakeyhtion-perustaminen/
+- https://finland.avokatfinder.com/glossary/perunkirjoitus/
+- https://finland.avokatfinder.com/glossary/tyosopimus-fi/
+- https://finland.avokatfinder.com/glossary/varainsiirtovero/
+
+## Site Info
+- Language: English
+- Audience: Expats, foreign nationals, international property buyers and businesses in Finland
+- Content: Law firm directory, legal glossary, expat legal guides
+- Last updated: 2026-04-30
+- Sitemap: https://finland.avokatfinder.com/sitemap.xml
+
+## Permissions
+User-agent: *
+Allow: /
